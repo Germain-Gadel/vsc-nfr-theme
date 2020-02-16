@@ -15,7 +15,7 @@
         "type": "url",
         "url": "https://github.com/Germain-Gadel/nfr-theme"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.42.0"
     },
