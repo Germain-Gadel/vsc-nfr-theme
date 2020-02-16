@@ -1,0 +1,42 @@
+{
+    "name": "vsc-nfr-theme",
+    "displayName": "Now For Reddit Theme",
+    "description": "Now For Reddit colours in VS Code",
+    "publisher": "gpem",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#323232",
+        "theme": "dark"
+    },
+    "author": {
+        "name": "gpem"
+    },
+    "repository": {
+        "type": "url",
+        "url": "https://github.com/Germain-Gadel/vsc-now-for-reddit-theme"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Dark",
+        "Now For Reddit",
+        "Reddit"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Now For Reddit Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Now For Reddit Theme-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
+}
