@@ -92,7 +92,7 @@
             "scope": "entity.name.class",
             "settings": {
                 "fontStyle": "underline",
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
@@ -100,7 +100,7 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "italic underline",
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
@@ -108,7 +108,7 @@
             "scope": "entity.name.function",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
@@ -132,7 +132,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
@@ -209,7 +209,7 @@
             "name": "diff.inserted",
             "scope": "markup.inserted",
             "settings": {
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
@@ -235,26 +235,26 @@
             "name": "Language methods",
             "scope": ["variable.language"],
             "settings": {
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
             "scope": "heading.1.markdown",
             "settings": {
-                "foreground": "#99CC00",
+                "foreground": "#6dcc00",
                 "fontStyle": "bold"
             }
         },
         {
             "scope": "punctuation.definition.heading.markdown",
             "settings": {
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
             "scope": "entity.name.section.markdown",
             "settings": {
-                "foreground": "#99CC00"
+                "foreground": "#6dcc00"
             }
         },
         {
@@ -299,7 +299,7 @@
     ],
     "colors": {
 		//VS Code layout
-        "activityBarBadge.background": "#99CC00",
+        "activityBarBadge.background": "#6dcc00",
         "activityBarBadge.foreground": "#202020",
         "diffEditor.insertedTextBorder": "#608b4e",
 		"diffEditor.removedTextBorder": "#d16969",
@@ -347,8 +347,8 @@
         "terminal.ansiBrightBlack": "#313131",
         "terminal.ansiRed": "#EC5757",
         "terminal.ansiBrightRed": "#EC5757",
-        "terminal.ansiGreen": "#99CC00",
-        "terminal.ansiBrightGreen": "#99CC00",
+        "terminal.ansiGreen": "#6dcc00",
+        "terminal.ansiBrightGreen": "#6dcc00",
         "terminal.ansiYellow": "#ecda14",
         "terminal.ansiBrightYellow": "#ecda14",
         "terminal.ansiBlue": "#0687ff",
